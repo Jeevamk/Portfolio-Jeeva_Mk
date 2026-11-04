@@ -67,7 +67,7 @@ export interface Education {
 }
 
 export const profile: Profile = {
-  name: "Jeeva Mk",
+  name: "Jeeva",
   title: "Software Engineer |",
   subtitle: "Full Stack Developer | Project Coordinator",
   location: "Calicut, Kerala",
